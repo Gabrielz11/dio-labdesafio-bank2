@@ -47,5 +47,5 @@ Este é um projeto de um **banco digital** desenvolvido em **Python**. O sistema
 - ⚖️ Melhorar a segurança das transações.
 
 ## 👨‍👩‍👧 Autor
-Desenvolvido por [Seu Nome] 🌟
+Desenvolvido por [autor] 🌟
 
